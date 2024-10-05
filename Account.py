@@ -23,7 +23,7 @@ class Account:
         return self.username
 
     def get_saved_words(self):
-        return self.saved_words
+        return self.saved_words 
 
     # Setters
     def set_name(self, name):
